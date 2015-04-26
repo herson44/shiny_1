@@ -1,0 +1,14 @@
+This is simple shiny app
+It calculate a standard error based in a sample size and a population size
+
+Assumtions:
+Population has a normal distribution
+Sample was randomly selected so has the same distribution of population
+
+How to use it:
+
+1. Put sample size in text box 1
+2. Put population size in text box 2
+
+Thats it!
+
